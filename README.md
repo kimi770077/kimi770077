@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kimia roozban
-- 👀 I’m interested in programmer and producer
+- 👀 I’m interested in programming and producer
 - 🌱 I’m currently learning progrom security,mvc, of Business automation  
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me ...
